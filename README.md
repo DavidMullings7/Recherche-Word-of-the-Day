@@ -1,4 +1,4 @@
-# Vocabulary-Word-of-the-Day
+# Recherche-Word-of-the-Day
 
 This script uses Beautiful Soup 4 and the SMTP API to screen scrape a vocabulary
 word off of an online dictionary and send it to my mobile device. This is only possible
